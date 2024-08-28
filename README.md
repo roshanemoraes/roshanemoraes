@@ -17,12 +17,9 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-- 👀 I’m interested in Backend Engineering<br/>
-- 🌱 I’m currently learning ...<br/>
-- 💞️ I’m looking to collaborate on ...<br/>
-- 📫 How to reach me ...<br/>
-- 😄 Pronouns: ...<br/>
-- ⚡ Fun fact: ...<br/>
+- 👀 I’m interested in Computer Science Engineering and Full Stack Developing<br/>
+- 🌱 I’m currently learning Software Engineering<br/>
+- 📫 How to reach me adam.21@cse.mrt.ac.lk<br/>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
