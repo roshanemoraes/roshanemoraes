@@ -20,7 +20,7 @@
 - 👀 I’m interested in Computer Science Engineering and Full Stack Developing<br/>
 - 🌱 I’m currently learning Software Engineering<br/>
 - 📫 How to reach me <a href="your-mail"> adam.21@cse.mrt.ac.lk </a><br/>
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
