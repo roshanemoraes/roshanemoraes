@@ -44,3 +44,9 @@
 roshanemoraes/roshanemoraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br/>
+[View my Holopin badges](https://www.holopin.io/@roshanemoraes)
+
+
+
+[![An image of @roshanemoraes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roshanemoraes)](https://holopin.io/@roshanemoraes)
