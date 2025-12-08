@@ -25,7 +25,6 @@ I’m actively researching multilingual LLM architectures under the organization
 - Developed a multilingual **Mixture-of-Experts routing system** using reinforcement learning to improve expert selection and classification performance.  
   **Tech:** Python | PyTorch | FastText | HuggingFace Transformers  
 - Built scalable **training, evaluation, and fine-tuning pipelines** with LoRA/QLoRA, experiment tracking, and distributed ML acceleration.  
-  **Tech:** DeepSpeed | CUDA | RLlib / Stable-Baselines3 | Weights & Biases  
 
 ---
 
@@ -50,49 +49,10 @@ I’m actively researching multilingual LLM architectures under the organization
 
 ---
 
-## 📦 Featured Projects  
-Here are some highlighted projects from my work:
-
-### 🔹 **Mixture-of-Experts LLM Router**  
-Routing pipeline for multilingual text classification using RL  
-**Repo:** https://github.com/Multilingual-LLMs-for-Classification
-
-### 🔹 **Post Office MIS & Postman Assistant App**  
-Full-stack Spring Boot + React MIS system with mobile tracking.
-
-### 🔹 **Asynchronous Event Handling & Notification Framework**  
-Full-stack real-time notification system for async operations (Java + React + RabbitMQ)
-
----
-
-## 📊 GitHub Stats  
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=roshanemoraes&show_icons=true&theme=tokyonight" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanemoraes&layout=compact&theme=tokyonight" height="150"/>
-
-</div>
-
----
-
-## 🚀 Contribution Graph  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanemoraes&theme=tokyo-night" />
-</div>
-
----
-
 ## 🌐 Connect With Me  
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="linkedin.com/in/adam-moraes">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 
